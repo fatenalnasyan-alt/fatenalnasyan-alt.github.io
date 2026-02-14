@@ -1,0 +1,11 @@
+🔹 Scenario
+You are a network engineer hired by a startup company called “GlobalEdu”, an online learning platform experiencing slow website performance for international users.
+The company:
+•	Hosts its website on a single origin server.
+•	Serves static content (images, CSS, JS, videos).
+•	Has users from different regions (Middle East, Europe, Asia).
+Your task is to:
+1.	Analyze performance issues.
+2.	Implement a CDN solution.
+3.	Measure performance improvements.
+4.	Document findings.
