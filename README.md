@@ -1,1 +1,1 @@
-# fatenalnasyan-alt.github.io
+# GlobalEdu.github.io
